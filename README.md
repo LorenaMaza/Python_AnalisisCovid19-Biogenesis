@@ -86,9 +86,10 @@ A partir del análisis, se recomienda priorizar la expansión en países con **a
 ---
 
 ## 📂 Estructura del Repositorio  
-- 📁 data → dataset original y limpio.
+- 📁 data → dataset original (no se puede subir por tamaño superior a 25 mb) y limpio.
 - 📁 notebooks → notebooks de Python con el análisis exploratorio.
 - 📁 dashboard → archivo .pbix del tablero en Power BI.
+- 📁 documentation → archivo .pdf del notebook ejecutado y registro del desarrollo del trabajo.
 - 📄 README.md → este documento.
 
 ---
