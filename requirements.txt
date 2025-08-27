@@ -1,0 +1,18 @@
+# requirements.txt
+
+# Manejo de datos
+pandas==2.2.2
+numpy==1.26.4
+
+# Visualización
+matplotlib==3.9.2
+seaborn==0.13.2
+
+# Jupyter Notebooks
+jupyter==1.0.0
+ipykernel==6.29.5
+notebook==7.2.2
+
+#para futuras ocasiones en el entorno virtual (venv) corré:
+# pip install -r requirements.txt 
+# Se instalan todas las librerías requeridas
